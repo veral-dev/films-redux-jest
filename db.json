@@ -1,0 +1,45 @@
+{
+  "films": [
+    {
+      "name": "El Hobbit",
+      "genre": [
+        "horror",
+        "comedy"
+      ],
+      "watched": false,
+      "id": 2
+    },
+    {
+      "name": "El Señor de los Anillos",
+      "genre": [
+        "comedy"
+      ],
+      "watched": true,
+      "id": 3
+    },
+    {
+      "name": "Notting Hill",
+      "genre": [
+        "romance"
+      ],
+      "watched": false,
+      "id": 4
+    },
+    {
+      "name": "Rambo",
+      "genre": [
+        "comedy"
+      ],
+      "watched": false,
+      "id": 7
+    },
+    {
+      "name": "Padrino",
+      "genre": [
+        "drama"
+      ],
+      "watched": true,
+      "id": 8
+    }
+  ]
+}
